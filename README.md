@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/getab94/portfolio/main/image.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
   
   # <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=30&center=true&vCenter=true&width=500&height=50&color=C8A96E&lines=Hi,+I'm+Getayawkal+Abderahman+👋;Software+Developer;Network+Administrator;Clean+Code+Advocate" alt="Typing SVG" />
 
@@ -12,6 +11,10 @@
     <a href="https://getab94.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=C8A96E&borderColor=C8A96E"></a>
     <a href="mailto:getayawkalg3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C8A96E&borderColor=C8A96E"></a>
     <a href="tel:+251987158811"><img src="https://img.shields.io/badge/Phone-+251_987_158_811-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C8A96E&borderColor=C8A96E"></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=getab94&label=Profile%20views&color=C8A96E&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -61,11 +64,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=getab94&theme=darkhub&no-frame=true&no-bg=true&title-text-color=C8A96E&margin-w=15" />
+  <a href="https://github.com/getab94">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=getab94&theme=dark&background=0D0D0D&stroke=C8A96E&ring=C8A96E&fire=C8A96E&currStreakNum=F0EDE6&sideNums=F0EDE6&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=F0EDE6&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
