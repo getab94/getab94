@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <a href="https://getab94.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=C8A96E&borderColor=C8A96E"></a>
+    <a href="https://getayawkal-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=C8A96E&borderColor=C8A96E"></a>
     <a href="mailto:getayawkalg3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C8A96E&borderColor=C8A96E"></a>
     <a href="tel:+251987158811"><img src="https://img.shields.io/badge/Phone-+251_987_158_811-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C8A96E&borderColor=C8A96E"></a>
   </p>
